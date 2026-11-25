@@ -85,3 +85,8 @@ Pass-rate order. In sellers, the high_seller_pass_rate flag is computed before n
 Unused imports. sum and avg are imported in gold but never used.
 
 Unsafe division. top_seller_ratio and mean_products_listed_per_seller divide without guarding against zero.
+
+
+## Data Model
+![Data Modelling](https://github.com/DataSanket/Ecommerce-data-analysis-with-medallion/blob/main/data/data_model.png)
+
